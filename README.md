@@ -3,9 +3,6 @@ Alles rund um OER
 
 Fellow-Programm Freies Wissen 2018/2019
 Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
-
-Session: Open Education / Open Educational Resources
-
 Referent*innen: Marcel Dux und Jo Havemann
 
 Marcel Dux, www.marceldux.com, twitter: mrcldux
@@ -27,10 +24,11 @@ Eigentlich braucht es kein neuerliches Repository, sondern eine Platform, die ei
 - https://de.wikipedia.org/wiki/Open_Educational_Resources
 - https://en.wikipedia.org/wiki/Open_educational_resources
 
-### UNESCO (OER Guidelines since 2011, renewed in 2015)
+#### UNESCO (OER Guidelines since 2011, renewed in 2015)
 - http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/guidelines-for-open-educational-resources-oer-in-higher-education/
 - https://en.unesco.org/themes/building-knowledge-societies/oer
 
+### Status quo
 - steigende Anzahl verfügbarer, von Experten kuratierter und frei lizenzierter Lehr- und Lernressourcen
 - reduzieren finanzielle und strukturelle Barrieren für interessierte Leser
 - zugänglich für ein breites Publikum weltweit  
@@ -65,18 +63,17 @@ Eigentlich braucht es kein neuerliches Repository, sondern eine Platform, die ei
 
 - indem Community Leitlinien und Standards entwickelt werden, können einzelne Wissenschaftler von diesen Empfehlungen profitieren und Studierende werden in wissenschaftsrelevanten Fähigkeiten unter Open Science Gesichtspunkten im digitalen Zeitalter geschult. 
 
+## Referenzen
+Blog: https://www.marceldux.com/blog/2019/oer-deutschland-ist-stand
 
-### Community publishing / Workflows / Open Textbooks
-
+#### Community publishing / Workflows / Open Textbooks
 https://www.pubpub.org/
 https://osf.io/ (Beispiel: https://osf.io/qzupa/)
 
-
-### Initiativen
+#### Initiativen
     https://open.umn.edu/opentextbooks/
     
-
-### MOOCs 
+#### MOOCs 
 https://eliademy.com/
 https://www.edx.org/school/harvardx (von EdX)
 
