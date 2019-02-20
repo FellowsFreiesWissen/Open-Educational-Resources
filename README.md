@@ -1,17 +1,5 @@
-# Open-Educational-Resources
-Alles rund um OER
+# Open-Educational-Resources – Alles rund um OER
 
-Fellow-Programm Freies Wissen 2018/2019
-Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
-Referent*innen: Marcel Dux und Jo Havemann
-
-Marcel Dux, www.marceldux.com, twitter: mrcldux
-Johanna Havemann, https://access2perspectives.com/
-Mindmap mit Tipps und Links unter https://bit.ly/2Su9AiZ
-
-### Ziel des Workshops
-Fellows sollen OER Diskurs in Deutschland kennenlernen und Anknüpfungspunkte finden zu eigenen Problemstellungen.
-Blogbeitrag aus dem Workshop (mit Serviceteil) erstellen - Marcel Dux: Lead?
 
 ### Allgemeine Ziele
 Im Rahmen der Digitalisierungsstrategie der Bundesregierung sollte das Thema mehr Sichtbarkeit bekommen! DENN: Jedes Bundesland hat eigene Bildungsserver aufgesetzt, viele unterschiedliche Strategien und Initiativen, und sehr verschiedene Funktionalitäten, keine einheitlichen Standards
@@ -19,10 +7,6 @@ Im Rahmen der Digitalisierungsstrategie der Bundesregierung sollte das Thema meh
 Eigentlich braucht es kein neuerliches Repository, sondern eine Platform, die eine Dramaturgie unterschiedlichster Quellen und interaktive Diskussion ermöglicht.
   
 Wie wird OER als Prinzip Offener Wissenschaft verständlich gemacht?
-
-
-
-ZUM oder Stand zu OER in Deutschland / Praxisrahmen, nur um einige weitere Aspekte zu nennen.
 
     
 ### weiterführende Links    
@@ -85,4 +69,13 @@ https://osf.io/ (Beispiel: https://osf.io/qzupa/)
 https://eliademy.com/
 https://www.edx.org/school/harvardx (von EdX)
 
+- - - 
 
+# Fellow-Programm Freies Wissen 2018/2019
+Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
+Referent*innen: [Marcel Dux](www.marceldux.com) twitter: @mrcldux und [Jo Havemann](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/MentorInnen/Johanna_Havemann)
+Mindmap mit Tipps und Links unter https://bit.ly/2Su9AiZ
+
+### Ziel des Workshops
+Fellows sollen OER Diskurs in Deutschland kennenlernen und Anknüpfungspunkte finden zu eigenen Problemstellungen.
+Blogbeitrag aus dem Workshop (mit Serviceteil) erstellen - Marcel Dux: Lead?
