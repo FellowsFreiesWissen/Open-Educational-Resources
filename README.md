@@ -73,8 +73,9 @@ https://www.edx.org/school/harvardx (von EdX)
 
 # Fellow-Programm Freies Wissen 2018/2019
 Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
-Referent*innen: [Marcel Dux](www.marceldux.com) twitter: @mrcldux und [Jo Havemann](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/MentorInnen/Johanna_Havemann)
-Mindmap mit Tipps und Links unter https://bit.ly/2Su9AiZ
+- Referent*innen: [Marcel Dux](www.marceldux.com) twitter: @mrcldux und [Jo Havemann](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/MentorInnen/Johanna_Havemann)
+- Mindmap mit Tipps und Links unter https://bit.ly/2Su9AiZ
+- Blogbeitrag https://www.marceldux.com/blog/2019/oer-deutschland-ist-stand
 
 ### Ziel des Workshops
 Fellows sollen OER Diskurs in Deutschland kennenlernen und Anknüpfungspunkte finden zu eigenen Problemstellungen.
