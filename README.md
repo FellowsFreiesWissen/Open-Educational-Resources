@@ -18,7 +18,12 @@ Im Rahmen der Digitalisierungsstrategie der Bundesregierung sollte das Thema meh
     
 Eigentlich braucht es kein neuerliches Repository, sondern eine Platform, die eine Dramaturgie unterschiedlichster Quellen und interaktive Diskussion ermöglicht.
   
-### Präsentation
+Wie wird OER als Prinzip Offener Wissenschaft verständlich gemacht?
+
+
+
+ZUM oder Stand zu OER in Deutschland / Praxisrahmen, nur um einige weitere Aspekte zu nennen.
+
     
 ### weiterführende Links    
 - https://de.wikipedia.org/wiki/Open_Educational_Resources
@@ -37,9 +42,12 @@ Eigentlich braucht es kein neuerliches Repository, sondern eine Platform, die ei
 - Zugang zu Kernaspekten der Wissenschaft und höherer Bildung für die allgemeine Öffentlichkeit
 
 ### OER in Deutschland - Österreich - Schweiz
-- Hamburg Open Online University https://www.hoou.de/ – (bis 2018 als Referenzprojekt aktiv vorangetrieben worden, wird von allen Hamburger Hochschulen genutzt um freie Materialien bereitzustellen, jetzt Projekt verstetigt): Auch dort können Materialen der Fellows zur Verfügung stellen
-- https://www.openeducation.at/home/ Open Education Austria
-- …
+- Praxisrahmen für Open Educational Resources (OER) in Deutschland: http://mapping-oer.de/praxisrahmen/
+- OER Contenbuffet: https://oer-contentbuffet.info/edu-sharing/components/oer
+- Hamburg Open Online University https://www.hoou.de/ – (bis 2018 als Referenzprojekt aktiv vorangetrieben worden, wird von allen Hamburger Hochschulen genutzt um freie Materialien bereitzustellen, jetzt Projekt verstetigt): Auch dort können Materialen der Fellows zur Verfügung gestellt werden
+- Open Education Austria: https://www.openeducation.at/home/ 
+- edulabs: https://edulabs.de/
+- ZUM.de - UnterrichtsMaterial, Projekte, Ideen: https://www.zum.de/portal/
 
 ### OER international
 - Khan Academy | https://www.khanacademy.org/
