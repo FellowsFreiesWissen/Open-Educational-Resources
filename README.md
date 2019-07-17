@@ -44,7 +44,7 @@ Wie wird OER als Prinzip Offener Wissenschaft verständlich gemacht?
 
 
 ### Open Science in Lehre und Lernen
-- Lehre und Lernen im Hochschulsektor. Aus den methodischen 
+- Lehre und Lernen im Hochschulsektor
 - Bedarf, neue Lerninhalte zu entwickeln und zu vermitteln. 
 - Warum braucht die Wissenschaft Offenheit? 
 - Welche erkenntnistheoretischen und statistischen Notwendigkeiten sind an der Wurzel dieser Entwicklungen? 
@@ -80,3 +80,7 @@ Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
 ### Ziel des Workshops
 Fellows sollen OER Diskurs in Deutschland kennenlernen und Anknüpfungspunkte finden zu eigenen Problemstellungen.
 Blogbeitrag aus dem Workshop (mit Serviceteil) erstellen - Marcel Dux: Lead?
+
+# Intro Präsentation 
+von Rima-Maria Rahal
+- https://osf.io/7t98s/
