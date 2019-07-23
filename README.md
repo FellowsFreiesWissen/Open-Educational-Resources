@@ -1,6 +1,14 @@
 # Open-Educational-Resources – Alles rund um OER
 
+## OER MOOCs
+- https://moving.mz.tu-dresden.de/mooc
 
+## Intro Präsentation 
+von Rima-Maria Rahal
+- https://osf.io/7t98s/
+
+
+## FFW Workshop 2018
 ### Allgemeine Ziele
 Im Rahmen der Digitalisierungsstrategie der Bundesregierung sollte das Thema mehr Sichtbarkeit bekommen! DENN: Jedes Bundesland hat eigene Bildungsserver aufgesetzt, viele unterschiedliche Strategien und Initiativen, und sehr verschiedene Funktionalitäten, keine einheitlichen Standards
     
@@ -81,6 +89,3 @@ Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
 Fellows sollen OER Diskurs in Deutschland kennenlernen und Anknüpfungspunkte finden zu eigenen Problemstellungen.
 Blogbeitrag aus dem Workshop (mit Serviceteil) erstellen - Marcel Dux: Lead?
 
-# Intro Präsentation 
-von Rima-Maria Rahal
-- https://osf.io/7t98s/
